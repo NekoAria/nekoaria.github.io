@@ -6,8 +6,120 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 04 Nov 2019 16:00:28 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2019 02:03:29 +0800</lastBuildDate>
         <atom:link href="https://nekoaria.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>我正在使用的软件</title>
+            <link>https://nekoaria.github.io/posts/2019/11/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/</link>
+            <pubDate>Thu, 14 Nov 2019 02:03:29 +0800</pubDate>
+            
+            <guid>https://nekoaria.github.io/posts/2019/11/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/</guid>
+            <description> Windows 任务栏  网易云音乐 Chrome Shadowsocks V2rayN QQ 微信 IntelliJ IDEA Visual Studio Code VNote SumatraPDF  开始屏幕  小米随身WIFI Snipaste 邮件(内置) SUMo Process Explorer 天气(内置) Cmder 迅雷 Internet Downloader Manager qBittorrent SpeedPan PanDownload MoeLoaderDelta Dism++ MobaXterm FastCopy Navicat Premium PyCharm SocksCap64 回收站(内置) LDPlayer 闹钟和时钟(内置) Zeal  开机启动  火绒 Ditto Everything uTools NetSpeedMonitor  其他  AIDA64 AntiDupl.NET Aria2 AwesomePhotoFinder Bandzip CrystalDiskMark Dadroit Viewer Diffinity Double Commander Driver Booster FlashFXP Git for Windows Google日语输入法 HashMyFiles Honeyview KeePassXC LAV Filters Notepad3 PasteEx Photoshop CC PicGo PotPlayer RapidEEx64 RegWorkshop Remove Empty Directories renamer Revo Uninstaller Pro Rime ShareX sizer SourceTree Space Sniffer Steam VisiPics Vistanita Duplicate Finder VLC media player Waifu2x WinMerge WizTree Zhitu 正则表达式(MicroSoft Store)  </description>
+            <content type="html"><![CDATA[
+
+<h2 id="windows">Windows</h2>
+
+<h3 id="任务栏">任务栏</h3>
+
+<ul>
+<li>网易云音乐</li>
+<li>Chrome</li>
+<li>Shadowsocks</li>
+<li>V2rayN</li>
+<li>QQ</li>
+<li>微信</li>
+<li>IntelliJ IDEA</li>
+<li>Visual Studio Code</li>
+<li>VNote</li>
+<li>SumatraPDF</li>
+</ul>
+
+<h3 id="开始屏幕">开始屏幕</h3>
+
+<ul>
+<li>小米随身WIFI</li>
+<li>Snipaste</li>
+<li>邮件(内置)</li>
+<li>SUMo</li>
+<li>Process Explorer</li>
+<li>天气(内置)</li>
+<li>Cmder</li>
+<li>迅雷</li>
+<li>Internet Downloader Manager</li>
+<li>qBittorrent</li>
+<li>SpeedPan</li>
+<li>PanDownload</li>
+<li>MoeLoaderDelta</li>
+<li>Dism++</li>
+<li>MobaXterm</li>
+<li>FastCopy</li>
+<li>Navicat Premium</li>
+<li>PyCharm</li>
+<li>SocksCap64</li>
+<li>回收站(内置)</li>
+<li>LDPlayer</li>
+<li>闹钟和时钟(内置)</li>
+<li>Zeal</li>
+</ul>
+
+<h3 id="开机启动">开机启动</h3>
+
+<ul>
+<li>火绒</li>
+<li>Ditto</li>
+<li>Everything</li>
+<li>uTools</li>
+<li>NetSpeedMonitor</li>
+</ul>
+
+<h3 id="其他">其他</h3>
+
+<ul>
+<li>AIDA64</li>
+<li>AntiDupl.NET</li>
+<li>Aria2</li>
+<li>AwesomePhotoFinder</li>
+<li>Bandzip</li>
+<li>CrystalDiskMark</li>
+<li>Dadroit Viewer</li>
+<li>Diffinity</li>
+<li>Double Commander</li>
+<li>Driver Booster</li>
+<li>FlashFXP</li>
+<li>Git for Windows</li>
+<li>Google日语输入法</li>
+<li>HashMyFiles</li>
+<li>Honeyview</li>
+<li>KeePassXC</li>
+<li>LAV Filters</li>
+<li>Notepad3</li>
+<li>PasteEx</li>
+<li>Photoshop CC</li>
+<li>PicGo</li>
+<li>PotPlayer</li>
+<li>RapidEEx64</li>
+<li>RegWorkshop</li>
+<li>Remove Empty Directories</li>
+<li>renamer</li>
+<li>Revo Uninstaller Pro</li>
+<li>Rime</li>
+<li>ShareX</li>
+<li>sizer</li>
+<li>SourceTree</li>
+<li>Space Sniffer</li>
+<li>Steam</li>
+<li>VisiPics</li>
+<li>Vistanita Duplicate Finder</li>
+<li>VLC media player</li>
+<li>Waifu2x</li>
+<li>WinMerge</li>
+<li>WizTree</li>
+<li>Zhitu</li>
+<li>正则表达式(MicroSoft Store)</li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>Hello Hugo!</title>
