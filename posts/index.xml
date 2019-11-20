@@ -15,7 +15,7 @@
             <pubDate>Thu, 14 Nov 2019 02:03:29 +0800</pubDate>
             
             <guid>https://nekoaria.github.io/posts/2019/11/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/</guid>
-            <description> Windows 任务栏  网易云音乐 Chrome Shadowsocks V2rayN QQ 微信 IntelliJ IDEA Visual Studio Code VNote SumatraPDF  开始屏幕  小米随身WIFI Snipaste 邮件(内置) SUMo Process Explorer 天气(内置) Cmder 迅雷 Internet Downloader Manager qBittorrent SpeedPan PanDownload MoeLoaderDelta Dism++ MobaXterm FastCopy Navicat Premium PyCharm SocksCap64 回收站(内置) LDPlayer 闹钟和时钟(内置) Zeal  开机启动  火绒 Ditto Everything uTools NetSpeedMonitor  其他  AIDA64 AntiDupl.NET Aria2 AwesomePhotoFinder Bandzip CrystalDiskMark Dadroit Viewer Diffinity Double Commander Driver Booster FlashFXP Git for Windows Google日语输入法 HashMyFiles Honeyview KeePassXC LAV Filters Notepad3 PasteEx Photoshop CC PicGo PotPlayer RapidEEx64 RegWorkshop Remove Empty Directories renamer Revo Uninstaller Pro Rime ShareX sizer SourceTree Space Sniffer Steam VisiPics Vistanita Duplicate Finder VLC media player Waifu2x WinMerge WizTree Zhitu 正则表达式(MicroSoft Store)  </description>
+            <description> Windows 任务栏  网易云音乐 Chrome Shadowsocks V2rayN QQ 微信 IntelliJ IDEA Visual Studio Code VNote SumatraPDF  开始屏幕  小米随身WIFI Snipaste 邮件(内置) SUMo Process Explorer 天气(内置) Cmder 迅雷 Internet Downloader Manager qBittorrent SpeedPan ENFI PanDownload MoeLoaderDelta Dism++ MobaXterm FastCopy Navicat Premium PyCharm SocksCap64 回收站(内置) LDPlayer 闹钟和时钟(内置) Zeal  开机启动  火绒 QuickLook Ditto Everything uTools NetSpeedMonitor  其他  AIDA64 AntiDupl.NET Aria2 AwesomePhotoFinder Bandzip CrystalDiskMark Dadroit Viewer Diffinity Double Commander Driver Booster FlashFXP Git for Windows Google日语输入法 HashMyFiles Honeyview KeePassXC LAV Filters Notepad3 PasteEx Photoshop CC PicGo PotPlayer RapidEEx64 RegWorkshop Remove Empty Directories renamer Revo Uninstaller Pro Rime ShareX sizer SourceTree Space Sniffer Steam VisiPics Vistanita Duplicate Finder VLC media player Waifu2x WinMerge WizTree Zhitu 正则表达式(MicroSoft Store)  </description>
             <content type="html"><![CDATA[
 
 <h2 id="windows">Windows</h2>
@@ -49,6 +49,7 @@
 <li>Internet Downloader Manager</li>
 <li>qBittorrent</li>
 <li>SpeedPan</li>
+<li>ENFI</li>
 <li>PanDownload</li>
 <li>MoeLoaderDelta</li>
 <li>Dism++</li>
@@ -67,6 +68,7 @@
 
 <ul>
 <li>火绒</li>
+<li>QuickLook</li>
 <li>Ditto</li>
 <li>Everything</li>
 <li>uTools</li>
